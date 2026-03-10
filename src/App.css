@@ -1,0 +1,19 @@
+.App {
+  min-height: 100vh;
+  width: 100%;
+}
+
+main {
+  width: 100%;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: rgba(102, 126, 234, 0.3);
+  color: #fff;
+}
