@@ -9,7 +9,7 @@ const About = () => {
         <div className='about-content'>
           <div className='about-text'>
             <p>
-              I am a technical specialist with over 5 years of experience in web
+              I am a full-stack developer with over 5 years of experience in web
               and mobile development, working across the full application
               lifecycle, from conception and implementation to maintenance and
               continuous evolution.

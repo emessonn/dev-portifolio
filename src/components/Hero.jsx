@@ -9,15 +9,14 @@ const Hero = () => {
           <span className='greeting'>Hi, I'm</span>
           <h1 className='name'>Emesson Silva</h1>
           <h2 className='title'>
-            <span className='title-label'>
-              Technical Specialist | Full-Stack
-            </span>
+            <span className='title-label'>Full-Stack Developer</span>
           </h2>
           <p className='description'>
-            I engineer scalable web and mobile systems with React, React Native,
-            Node.js, and TypeScript, focusing on clean architecture, performance
-            tuning, maintainable codebases, and high-quality end-to-end
-            implementation.
+            Full-Stack Developer and Technical Leader with over 5 years of
+            experience in web and mobile development. Expert in the JavaScript
+            ecosystem (React, React Native, Node.js), with a proven track record
+            in squad leadership, code reviews, and aligning technical roadmaps
+            with business goals.
           </p>
           <div className='hero-buttons'>
             <a href='#projects' className='btn btn-primary'>
